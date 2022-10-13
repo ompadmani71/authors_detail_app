@@ -1,16 +1,10 @@
-# firebase_miner
+# Author Detail App 
+![flutter_logo](https://user-images.githubusercontent.com/108392662/195489964-916018ca-f52f-4eaf-967e-addcca5f5251.png)
 
-A new Flutter project.
+A Flutter project.
+
+# Sample image
+![Author](https://user-images.githubusercontent.com/108392662/195489940-5afba093-ea79-4f4d-b581-b2c2d6716bad.jpg)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This project task givin me by my Professor to User authorize and then after gives Author Detail like a author name and they Books.
